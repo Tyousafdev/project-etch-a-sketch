@@ -5,7 +5,7 @@ const parent = document.querySelector("#parent")
 const child = document.querySelector(".child")
 const reset = document.querySelector("#reset")
 const grid = document.querySelector("#grid")
-let DEFAULT = 16;
+let DEFAULT = 32;
 let userSize;
 
 
